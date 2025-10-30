@@ -1,6 +1,15 @@
-<!-- Banner o imagen de encabezado -->
 <p align="center">
   <img src="https://imgs.search.brave.com/UJ3gbBtxxa3VyLzz5viAroHWZuXa1QkGbBCyvRUCY4U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90b3MtcHJlbWl1/bS9jb2RpZ28tcHJv/Z3JhbWFjaW9uLXJl/c3VtZW4tYW50ZWNl/ZGVudGVzLXRlY25v/bG9naWEtZGVzYXJy/b2xsYWRvci1zb2Z0/d2FyZS1zY3JpcHQt/Y29tcHV0YWRvcmFf/MzQ2NjMtMzEuanBn/P3NlbXQ9YWlzX2h5/YnJpZCZ3PTc0MCZx/PTgw" alt="Banner tecnológico" width="100%" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/RCQYp8F/banner-tech.gif" alt="Banner tecnológico animado" width="100%" height="200">
+</p>
+
+<h1 align="center">👋 ¡Hola, soy <span style="color:#00bfff;">Juan</span>! 💻</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desarrollador+de+Software;Apasionado+por+la+Tecnología;Amante+del+Código+y+el+Café+☕" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 Sobre mí
